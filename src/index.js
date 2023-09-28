@@ -11,6 +11,7 @@ function titleComponent (){
     elemH1.innerHTML = 'Hello world 6'
     elemH1.classList.add('title')
     return elemH1
+
 }
 
 function imageComponent(){
